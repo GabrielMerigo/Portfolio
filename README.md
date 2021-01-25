@@ -1,3 +1,3 @@
-# Portfolio developed with HTML, CSS3, JavaScript and SASS. 🙋
+# :smiley: Portfolio developed with HTML, CSS3, JavaScript and SASS.
 
 
